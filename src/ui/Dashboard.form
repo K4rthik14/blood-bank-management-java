@@ -11,22 +11,22 @@
           <SubComponents>
             <MenuItem class="javax.swing.JMenuItem" name="jMenuItem1">
               <Properties>
-                <Property name="text" type="java.lang.String" value="jMenuItem1"/>
+                <Property name="text" type="java.lang.String" value="Add Donor"/>
               </Properties>
             </MenuItem>
             <MenuItem class="javax.swing.JMenuItem" name="jMenuItem2">
               <Properties>
-                <Property name="text" type="java.lang.String" value="jMenuItem2"/>
+                <Property name="text" type="java.lang.String" value="View Donor"/>
               </Properties>
             </MenuItem>
             <MenuItem class="javax.swing.JMenuItem" name="jMenuItem3">
               <Properties>
-                <Property name="text" type="java.lang.String" value="jMenuItem3"/>
+                <Property name="text" type="java.lang.String" value="Update Donor"/>
               </Properties>
             </MenuItem>
             <MenuItem class="javax.swing.JMenuItem" name="jMenuItem4">
               <Properties>
-                <Property name="text" type="java.lang.String" value="jMenuItem4"/>
+                <Property name="text" type="java.lang.String" value="Delete Donor"/>
               </Properties>
             </MenuItem>
           </SubComponents>

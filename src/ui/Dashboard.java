@@ -48,16 +48,16 @@ public class Dashboard extends javax.swing.JFrame {
 
         jMenu1.setText("Donor");
 
-        jMenuItem1.setText("jMenuItem1");
+        jMenuItem1.setText("Add Donor");
         jMenu1.add(jMenuItem1);
 
-        jMenuItem2.setText("jMenuItem2");
+        jMenuItem2.setText("View Donor");
         jMenu1.add(jMenuItem2);
 
-        jMenuItem3.setText("jMenuItem3");
+        jMenuItem3.setText("Update Donor");
         jMenu1.add(jMenuItem3);
 
-        jMenuItem4.setText("jMenuItem4");
+        jMenuItem4.setText("Delete Donor");
         jMenu1.add(jMenuItem4);
 
         jMenuBar1.add(jMenu1);
